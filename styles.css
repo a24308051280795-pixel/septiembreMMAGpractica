@@ -221,12 +221,6 @@ footer.pie-pagina .creditos {
   opacity: 0.7;
 }
 
-/* ---------- Adaptabilidad Móvil ---------- */
-@media (max-width: 600px) {
-  .bloque, .bloque.invertido {
-    flex-direction: column;
-    text-align: center;
-  }
   .bloque-icono {
     flex: initial;
   }
